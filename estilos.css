@@ -1,0 +1,13 @@
+body {
+    background-color: #e9edf5;
+}
+
+h1, h2, h3 {
+    color: #26395d;
+    font-family: Georgia, serif;
+}
+
+.destaque {
+    background-color: #d8c58e;
+    margin: 25px;
+}
